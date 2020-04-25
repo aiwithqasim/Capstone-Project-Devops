@@ -1,0 +1,6 @@
+[
+    { "ParameterKey": "DesiredCount", "ParameterValue": "1" },
+    { "ParameterKey": "EnvironmentName", "ParameterValue": "NanoDevops05" },
+    { "ParameterKey": "ImageUrl", "ParameterValue": "119841056280.dkr.ecr.us-east-1.amazonaws.com/nano-devops-05:latest" },
+    { "ParameterKey": "ServiceName", "ParameterValue": "helloWorld" }
+]
