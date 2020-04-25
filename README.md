@@ -1,4 +1,4 @@
-# nano-devops-05
+# Capstone Project (Cloud DevOps Engineer)
 
 Capstone project for Udacity Dev-Ops Nanodegree: develop a CI/CD pipeline for micro services applications with either blue/green deployment or rolling deployment.
 
@@ -77,3 +77,6 @@ ECR with new image uploaded:
 
 Hello world application running:
 ![Application running in AWS](./img/08-applicationRunning.png)
+
+<h3>Author</h3>
+<a href = "https://github.com/qasim1020/Capstone-Project-Devops"></a>
