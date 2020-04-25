@@ -79,4 +79,4 @@ Hello world application running:
 ![Application running in AWS](./img/08-applicationRunning.png)
 
 <h3>Author</h3>
-<a href = "https://github.com/qasim1020/Capstone-Project-Devops"></a>
+<a href = "https://github.com/qasim1020/Capstone-Project-Devops">GitHub</a>
